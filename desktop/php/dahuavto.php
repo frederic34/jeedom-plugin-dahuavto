@@ -153,6 +153,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
 										<option value="VTO2111D">VTO2111D</option>
 										<option value="VTO3211D">VTO3211D</option>
 										<option value="VTO2000A">VTO2000A</option>
+										<option value="VTO2202F">VTO2201F</option>
 										<option value="VTO2202F">VTO2202F</option>
 										<option value="VTO3221E">VTO3221E</option>
 									</select>
